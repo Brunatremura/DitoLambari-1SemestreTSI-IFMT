@@ -1,0 +1,98 @@
+body {
+    margin: 0
+}
+
+.fundoprincipal {
+    margin: 0;
+    background-image: url("img/background.jpg");
+}
+
+.titulo {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: whitesmoke
+}
+
+.home {
+    font-size: 170px;
+}
+
+#menu ul {
+    margin: 0;
+    background-color: black;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    padding: 15px 115px;
+    display: inline-block;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+#menu ul li a:hover {
+    color: wheat
+}
+
+.sobre {
+    text-align: center;
+    image-orientation: center;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.titulosobre {
+    font-size: 40px;
+}
+
+.textosobre {
+    font-size: 20px;
+}
+
+form {
+    font-size: 16px;
+    background: rgba(204, 204, 204, 0);
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 10px 10px 10px;
+}
+
+.contato {
+    color: #333 font-family='Courier New', Courier, monospace;
+}
+
+input,
+textarea {
+    width: 474px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.enviar input {
+    background-color: black;
+    height: 40px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: #FFF;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.enviar input:hover {
+    background: rgb(211, 176, 110);
+}
+
+textarea {
+    width: 474px;
+    height: 120px;
+    line-height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
