@@ -1,2 +1,10 @@
-# Atividade-frontend-1
-Atividade de Frontend do primeiro semestre do curso de  TSI utilizando HTML e CSS
+# Atividade de desenvolvimento da página do restaurante "Dito Lambari"
+Atividade de Frontend do primeiro semestre do curso de  Tecnologia em Sistemas para internet utilizando HTML e CSS cujo objetivo foi praticar as tags HTML e iniciar os estudos em CSS.
+## Página inicial 
+![](https://github.com/Brunatremura/Atividade-frontend-1/blob/main/img/P1.PNG?raw=true)
+
+## Demais páginas
+
+![](https://github.com/Brunatremura/Atividade-frontend-1/blob/main/img/P2.PNG?raw=true)
+<br>
+![](https://github.com/Brunatremura/Atividade-frontend-1/blob/main/img/P3.PNG?raw=true)
